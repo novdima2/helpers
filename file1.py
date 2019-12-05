@@ -1,4 +1,5 @@
-print("Hello world!")
+print("Hello world")
+print("Hello everyone")
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
